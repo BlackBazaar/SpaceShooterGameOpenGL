@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\umut\source\repos\SpaceShooterOGL2\SpaceShooterOGL2\main.cpp(50,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\umut\source\repos\SpaceShooterOGL2\SpaceShooterOGL2\main.cpp(130,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  SpaceShooterOGL2.vcxproj -> C:\Users\umut\source\repos\SpaceShooterOGL2\Debug\SpaceShooterOGL2.exe
